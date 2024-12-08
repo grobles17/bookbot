@@ -1,2 +1,1 @@
-# bookbot
-BookBot using Python: summarize a book using stats
+BookBot is my first project!
